@@ -1,0 +1,12 @@
+.mui-button {
+  border: none;
+  background: #1976d2;
+  color: white;
+  border-radius: 4px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+.mui-button:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
